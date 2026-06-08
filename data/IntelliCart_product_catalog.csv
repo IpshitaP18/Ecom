@@ -1,0 +1,13 @@
+product_id,name,category,description,price,rating,sales
+101,Wireless Gaming Mouse,Electronics,"Ergonomic gaming mouse with RGB lighting and programmable buttons.",39.99,4.6,430
+102,Noise Cancelling Headphones,Electronics,"Over-ear headphones with active noise cancellation and long battery life.",129.99,4.8,335
+103,4K Ultra HD Smart TV,Electronics,"55-inch smart TV with streaming apps and voice control.",499.99,4.5,210
+104,Running Shoes,Sportswear,"Lightweight running shoes with breathable mesh and cushioned soles.",79.99,4.4,290
+105,Smartphone Stand,Accessories,"Adjustable desk phone stand for video calls and charging.",19.99,4.3,520
+106,Laptop Sleeve,Accessories,"Protective padded laptop sleeve for 13- to 15-inch notebooks.",24.99,4.2,225
+107,Stainless Steel Water Bottle,Home,"Insulated water bottle keeps drinks cold for 24 hours.",22.99,4.7,389
+108,Bluetooth Speaker,Electronics,"Portable Bluetooth speaker with deep bass and waterproof design.",59.99,4.5,310
+109,Fitness Tracker,Wearables,"Activity tracker with heart rate monitoring and sleep analytics.",49.99,4.1,260
+110,Coffee Maker,Home,"Automatic drip coffee maker with programmable timer.",89.99,4.6,175
+111,Office Desk Lamp,Home,"Dimmable LED desk lamp with adjustable color temperature.",34.99,4.4,198
+112,Smart Watch,Wearables,"Smart watch with fitness tracking, notifications, and GPS.",149.99,4.3,245

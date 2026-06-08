@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+streamlit
+pandas
+numpy
+scikit-learn
+surprise
+matplotlib
+plotly
+requests
+openpyxl
