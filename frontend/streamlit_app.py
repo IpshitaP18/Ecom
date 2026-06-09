@@ -1,14 +1,7 @@
-import os
 import requests
 import streamlit as st
 
-# Allow overriding the backend URL via environment variable or Streamlit secrets.
-# When deploying the frontend (Streamlit Community Cloud), set the secret/API value
-# `API_URL` to the public URL of your deployed backend.
-try:
-    API_URL = st.secrets["API_URL"]
-except (KeyError, FileNotFoundError):
-    API_URL = os.getenv("API_URL", "http://127.0.0.1:8000")
+API_URL = "http://127.0.0.1:8000"
 
 st.set_page_config(page_title="IntelliCart", layout="wide", page_icon="🛒")
 
